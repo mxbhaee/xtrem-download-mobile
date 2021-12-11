@@ -5,7 +5,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 31
     defaultConfig {
-        applicationId 'xtrem.download.mobile'
+        applicationId 'xtremee.download.mobile'
         minSdkVersion 19
         targetSdkVersion 31
         versionCode 1

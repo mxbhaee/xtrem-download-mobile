@@ -61,7 +61,7 @@
                         android:textSize="17sp"
                         android:textStyle="normal"
                         android:layout_margin="1dp"
-                        android:text="Xtreme Download Mobile is and android download manager built using Kotlin and Java for Android use to download files at a faster reliable speed."/>
+                        android:text="xtremee Download Mobile is and android download manager built using Kotlin and Java for Android use to download files at a faster reliable speed."/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"

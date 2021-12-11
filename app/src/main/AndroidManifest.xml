@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="xtrem.download.mobile"
+    package="xtreme.download.mobile"
     android:installLocation="auto">
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -1179,7 +1179,7 @@
             android:name=".receiver.NotificationReceiver"
             android:exported="false">
             <intent-filter>
-                <action android:name="xtrem.download.mobile.receiver.NotificationReceiver.NOTIFY_ACTION_SHUTDOWN_APP" />
+                <action android:name="xtreme.download.mobile.receiver.NotificationReceiver.NOTIFY_ACTION_SHUTDOWN_APP" />
             </intent-filter>
         </receiver>
 

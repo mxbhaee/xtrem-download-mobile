@@ -4,13 +4,13 @@
 
     <data>
         <import type="android.view.View"/>
-        <import type="xtrem.download.mobile.core.utils.BindingAdapterUtils" />
-        <import type="xtrem.download.mobile.ui.details.DownloadDetailsInfo" />
-        <import type="xtrem.download.mobile.core.model.data.StatusCode" />
+        <import type="xtreme.download.mobile.core.utils.BindingAdapterUtils" />
+        <import type="xtreme.download.mobile.ui.details.DownloadDetailsInfo" />
+        <import type="xtreme.download.mobile.core.model.data.StatusCode" />
 
         <variable
             name="viewModel"
-            type="xtrem.download.mobile.ui.details.DownloadDetailsViewModel" />
+            type="xtreme.download.mobile.ui.details.DownloadDetailsViewModel" />
     </data>
 
     <androidx.core.widget.NestedScrollView
@@ -237,7 +237,7 @@
                         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
                         android:layout_toStartOf="@+id/checksum_clipboard_button">
 
-                        <xtrem.download.mobile.ui.customview.FixHintTextInputEditText
+                        <xtreme.download.mobile.ui.customview.FixHintTextInputEditText
                             android:id="@+id/checksum"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"

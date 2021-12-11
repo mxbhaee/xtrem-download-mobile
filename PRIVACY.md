@@ -69,9 +69,9 @@ The developer may update this policy as there will be further development of the
 
 ## Disclaimer
 
-Download Navi is developed in good faith and for general use. The developer will not be held accountable for how you decide to use this software and will not be liable for any losses and/or damages in connection with the use of the software.
+Download xdm is developed in good faith and for general use. The developer will not be held accountable for how you decide to use this software and will not be liable for any losses and/or damages in connection with the use of the software.
 
 ## Contact
 
-Contributions to this project are welcomed. Contributions, suggestions or bug reports and fixes can be made by opening an issue or creating pull requests. Read our contributor's guidelines [here](https://github.com/mxbhaee/xtrem-download-mobile/blob/master/CONTRIBUTING.md) to get started.
+Contributions to this project are welcomed. Contributions, suggestions or bug reports and fixes can be made by opening an issue or creating pull requests. Read our contributor's guidelines [here](https://github.com/mxbhaee/xtreme-download-mobile/blob/master/CONTRIBUTING.md) to get started.
 If you have any questions about this Privacy Policy. inbox 

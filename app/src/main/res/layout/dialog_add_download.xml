@@ -6,7 +6,7 @@
         <import type="android.view.View" />
         <variable
             name="viewModel"
-            type="xtrem.download.mobile.ui.adddownload.AddDownloadViewModel" />
+            type="xtreme.download.mobile.ui.adddownload.AddDownloadViewModel" />
     </data>
 
     <androidx.core.widget.NestedScrollView
@@ -207,7 +207,7 @@
                     android:checked="@={viewModel.params.unmeteredConnectionsOnly}" />
             </com.google.android.material.internal.FlowLayout>
 
-            <xtrem.download.mobile.ui.customview.ExpansionHeader
+            <xtreme.download.mobile.ui.customview.ExpansionHeader
                 android:id="@+id/expansion_header"
                 android:layout_width="wrap_content"
                 android:layout_height="48dp"
@@ -335,7 +335,7 @@
                             app:hintEnabled="false"
                             android:layout_toStartOf="@+id/checksum_clipboard_button">
 
-                            <xtrem.download.mobile.ui.customview.FixHintTextInputEditText
+                            <xtreme.download.mobile.ui.customview.FixHintTextInputEditText
                                 android:id="@+id/checksum"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -377,7 +377,7 @@
                             android:layout_toStartOf="@+id/referer_clipboard_button"
                             app:hintEnabled="false">
 
-                            <xtrem.download.mobile.ui.customview.FixHintTextInputEditText
+                            <xtreme.download.mobile.ui.customview.FixHintTextInputEditText
                                 android:id="@+id/referer"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"

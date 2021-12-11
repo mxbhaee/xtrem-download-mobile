@@ -6,7 +6,7 @@
     <data>
         <variable
             name="viewModel"
-            type="xtrem.download.mobile.ui.browser.BrowserViewModel" />
+            type="xtreme.download.mobile.ui.browser.BrowserViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
@@ -44,7 +44,7 @@
                 app:viewModel="@{viewModel}" />
         </com.google.android.material.appbar.AppBarLayout>
 
-        <xtrem.download.mobile.ui.customview.NestedWebView
+        <xtreme.download.mobile.ui.customview.NestedWebView
             android:id="@+id/web_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

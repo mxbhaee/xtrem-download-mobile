@@ -5,7 +5,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <xtrem.download.mobile.ui.customview.EmptyRecyclerView
+        <xtreme.download.mobile.ui.customview.EmptyRecyclerView
             android:id="@+id/download_list"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

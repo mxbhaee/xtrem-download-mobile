@@ -1,6 +1,6 @@
 <resources>
     <!-- Global string -->
-    <string name="app_name">Xtrem Download Manager</string>
+    <string name="app_name">xtreme Download Manager</string>
     <string name="foreground_notification">Foreground notification</string>
     <string name="download_running">In progress</string>
     <string name="finished">Finished</string>
@@ -61,7 +61,7 @@
     <string name="download_ticker_notify">Downloading %1$s</string>
 
     <!-- Foreground notification -->
-    <string name="app_running_in_the_background">xtrem download manager background service</string>
+    <string name="app_running_in_the_background">xtreme download manager background service</string>
     <string name="pause_all">Pause all</string>
     <string name="resume_all">Resume all</string>
 

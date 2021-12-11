@@ -6,9 +6,9 @@
     <data>
         <variable
             name="viewModel"
-            type="xtrem.download.mobile.ui.filemanager.FileManagerViewModel" />
+            type="xtreme.download.mobile.ui.filemanager.FileManagerViewModel" />
         <import
-            type="xtrem.download.mobile.ui.filemanager.FileManagerConfig" />
+            type="xtreme.download.mobile.ui.filemanager.FileManagerConfig" />
         <import
             type="android.view.View" />
         <import
@@ -61,7 +61,7 @@
             </HorizontalScrollView>
         </com.google.android.material.appbar.AppBarLayout>
 
-        <xtrem.download.mobile.ui.customview.ThemedSwipeRefreshLayout
+        <xtreme.download.mobile.ui.customview.ThemedSwipeRefreshLayout
             android:id="@+id/swipe_container"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -79,7 +79,7 @@
                 android:scrollbars="vertical"
                 android:focusable="true"
                 android:scrollbarStyle="outsideOverlay" /> <!-- Need for padding -->
-        </xtrem.download.mobile.ui.customview.ThemedSwipeRefreshLayout>
+        </xtreme.download.mobile.ui.customview.ThemedSwipeRefreshLayout>
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/open_system_filemanager_fab"

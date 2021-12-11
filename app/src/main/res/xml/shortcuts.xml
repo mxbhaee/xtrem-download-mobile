@@ -10,7 +10,7 @@
         android:shortcutShortLabel="@string/add_download">
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetClass="xtrem.download.mobile.ui.adddownload.AddDownloadActivity"
-            android:targetPackage="xtrem.download.mobile" />
+            android:targetClass="xtreme.download.mobile.ui.adddownload.AddDownloadActivity"
+            android:targetPackage="xtreme.download.mobile" />
     </shortcut>
 </shortcuts>

@@ -6,7 +6,7 @@
     <data>
         <variable
             name="viewModel"
-            type="xtrem.download.mobile.ui.browser.BrowserViewModel" />
+            type="xtreme.download.mobile.ui.browser.BrowserViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout

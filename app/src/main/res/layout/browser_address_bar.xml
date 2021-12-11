@@ -6,7 +6,7 @@
         <import type="android.view.View" />
         <variable
             name="viewModel"
-            type="xtrem.download.mobile.ui.browser.BrowserViewModel" />
+            type="xtreme.download.mobile.ui.browser.BrowserViewModel" />
     </data>
 
     <merge>
@@ -31,7 +31,7 @@
             android:focusable="true"
             android:focusableInTouchMode="true">
 
-            <xtrem.download.mobile.ui.customview.FixHintTextInputEditText
+            <xtreme.download.mobile.ui.customview.FixHintTextInputEditText
                 android:id="@+id/address_input"
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"

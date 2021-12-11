@@ -4,10 +4,10 @@
 
     <data>
         <import type="android.view.View" />
-        <import type="xtrem.download.mobile.ui.browser.BrowserViewModel.UrlFetchState" />
+        <import type="xtreme.download.mobile.ui.browser.BrowserViewModel.UrlFetchState" />
         <variable
             name="viewModel"
-            type="xtrem.download.mobile.ui.browser.BrowserViewModel" />
+            type="xtreme.download.mobile.ui.browser.BrowserViewModel" />
     </data>
 
     <ProgressBar
