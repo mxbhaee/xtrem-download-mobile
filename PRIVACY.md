@@ -69,7 +69,7 @@ The developer may update this policy as there will be further development of the
 
 ## Disclaimer
 
-Download Navi is developed in good faith and for general use. The developer will not be held accountable for how you decide to use this software and will not be liable for any losses and/or damages in connection with the use of the software.
+Download xdm is developed in good faith and for general use. The developer will not be held accountable for how you decide to use this software and will not be liable for any losses and/or damages in connection with the use of the software.
 
 ## Contact
 
